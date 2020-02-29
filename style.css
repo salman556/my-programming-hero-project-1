@@ -1,0 +1,32 @@
+
+h1{
+    font-size: 60px;
+    font-family: monospace, 'poppins';
+
+}
+.name-style{
+    color: rgb(255, 127, 80);
+    font-family: monospace,sans-serif;
+    text-align: justify;
+    
+}
+
+.sub-title{
+    font-family: monospace;
+    color: rgb(154, 59, 243);
+}
+.pragraph{
+    font-family: sans-serif;
+    font-weight: normal;
+    text-align: justify;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left:5%;
+    margin-top: 4%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 87%;
+}
